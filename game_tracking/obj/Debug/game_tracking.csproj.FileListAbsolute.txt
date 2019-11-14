@@ -1,0 +1,13 @@
+C:\Users\정호일\Desktop\game_tracking\game_tracking\bin\Debug\game_tracking.exe.config
+C:\Users\정호일\Desktop\game_tracking\game_tracking\bin\Debug\game_tracking.exe
+C:\Users\정호일\Desktop\game_tracking\game_tracking\bin\Debug\game_tracking.pdb
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.exe
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.pdb
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.ProjectInstaller.resources
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.csproj.GenerateResource.cache
+C:\Users\정호일\Desktop\game_tracking\game_tracking\bin\Debug\game_tracking.exe.manifest
+C:\Users\정호일\Desktop\game_tracking\game_tracking\bin\Debug\game_tracking.application
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.TrustInfo.xml
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.exe.manifest
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.application
+C:\Users\정호일\Desktop\game_tracking\game_tracking\obj\Debug\game_tracking.csprojAssemblyReference.cache

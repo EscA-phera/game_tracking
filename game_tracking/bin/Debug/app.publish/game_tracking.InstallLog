@@ -1,0 +1,31 @@
+﻿# include <stdio.h>
+
+int main() {
+
+	int i, j;
+
+	scanf_s("%d %d", &i, &j);
+
+	while (i < j) {
+		printf("%d < %d\n", i, j);
+		i++;
+	}
+
+	while (true) {
+		printf("true : %d < %d\n", i-1, j);
+		i++;
+
+		if (i >= j) {
+			i--;
+			printf("same : %d = %d\n", i, j);
+
+			i++;
+			printf("false : %d < %d\n", i, j);
+			printf("fin");
+
+			break;
+		}
+	}
+
+	return 0;
+}
